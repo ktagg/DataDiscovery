@@ -187,6 +187,17 @@ def printer():
 
                             print('{} --> {} [confidence = {}] [support = {}]'.format(left, goods[next(iter(right))], round(float(fsupp) / lsupp, 2), actualSupport))
 
+def itemprinter():
+    for key, value in freqDict.items():
+        if key == 1:
+            for item,value in value.items():
+                print('{} {}'.format(goods[item], float(value[0])/len(transactions)))
+        if key >= 2:
+            for itemset in value.itemsets:
+                if itemset.maximal == True:
+                    items = ', '.join(goods[item] for item in itemset.items)
+                    print('{} {}'.format(items,float(itemset.support)/len(transactions)))
+
 
 if __name__ == "__main__":
     transactions = []
@@ -211,4 +222,5 @@ if __name__ == "__main__":
     minSupport = options.minS
     minConfidence = options.minC
     Apriori()
+    itemprinter()
     printer()
