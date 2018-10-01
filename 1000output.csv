@@ -1,0 +1,87 @@
+Coffee Eclair 0.093
+Blackberry Tart 0.073
+Bottled Water 0.077
+Single Espresso 0.059
+Lemon Cake 0.085
+Lemon Tart 0.076
+Opera Cake 0.078
+Strawberry Cake 0.091
+Cherry Tart 0.084
+Apricot Danish 0.075
+Casino Cake 0.072
+Napoleon Cake 0.09
+Raspberry Cookie 0.082
+Berry Tart 0.095
+Ganache Cookie 0.044
+Apple Tart 0.079
+Apple Croissant 0.091
+Apple Danish 0.084
+Cherry Soda 0.077
+Marzipan Cookie 0.09
+Tuile Cookie 0.102
+Lemon Cookie 0.066
+Lemon Lemonade 0.066
+Raspberry Lemonade 0.072
+Green Tea 0.062
+Pecan Tart 0.04
+Vanilla Meringue 0.047
+Truffle Cake 0.103
+Gongolais Cookie 0.108
+Blueberry Danish 0.055
+Blueberry Tart 0.081
+Apricot Croissant 0.076
+Hot Coffee 0.094
+Chocolate Eclair 0.034
+Almond Tart 0.041
+Apple Pie 0.068
+Almond Twist 0.065
+Vanilla Eclair 0.037
+Vanilla Frappuccino 0.074
+Chocolate Croissant 0.042
+Apricot Tart 0.056
+Chocolate Cake 0.084
+Orange Juice 0.082
+Chocolate Meringue 0.038
+Chocolate Coffee 0.085
+Chocolate Tart 0.051
+Walnut Cookie 0.061
+Almond Croissant 0.049
+Cheese Croissant 0.078
+Truffle Cake, Gongolais Cookie 0.058
+Strawberry Cake, Napoleon Cake 0.049
+Chocolate Cake, Chocolate Coffee 0.047
+Marzipan Cookie, Tuile Cookie 0.053
+Casino Cake, Chocolate Coffee 0.039
+Lemon Cake, Lemon Tart 0.04
+Coffee Eclair, Apple Pie 0.033
+Raspberry Cookie, Lemon Cookie 0.033
+Raspberry Cookie, Lemon Lemonade 0.031
+Lemon Cookie, Lemon Lemonade 0.031
+Lemon Cookie, Raspberry Lemonade 0.03
+Coffee Eclair, Blackberry Tart 0.031
+Coffee Eclair, Almond Twist 0.03
+Opera Cake, Cherry Tart, Apricot Danish 0.038
+Blueberry Tart, Apricot Croissant, Hot Coffee 0.032
+Apple Tart, Apple Croissant, Apple Danish, Cherry Soda 0.031
+MinSupport:0.03    MinConfidence:0.5
+Truffle Cake --> Gongolais Cookie [confidence = 0.56] [support = 0.058]
+Gongolais Cookie --> Truffle Cake [confidence = 0.54] [support = 0.058]
+Strawberry Cake --> Napoleon Cake [confidence = 0.54] [support = 0.049]
+Napoleon Cake --> Strawberry Cake [confidence = 0.54] [support = 0.049]
+Chocolate Cake --> Chocolate Coffee [confidence = 0.56] [support = 0.047]
+Chocolate Coffee --> Chocolate Cake [confidence = 0.55] [support = 0.047]
+Marzipan Cookie --> Tuile Cookie [confidence = 0.59] [support = 0.053]
+Tuile Cookie --> Marzipan Cookie [confidence = 0.52] [support = 0.053]
+Casino Cake --> Chocolate Coffee [confidence = 0.54] [support = 0.039]
+Lemon Tart --> Lemon Cake [confidence = 0.53] [support = 0.04]
+Lemon Cookie --> Raspberry Cookie [confidence = 0.5] [support = 0.033]
+Opera Cake, Cherry Tart --> Apricot Danish [confidence = 0.93] [support = 0.038]
+Opera Cake, Apricot Danish --> Cherry Tart [confidence = 0.97] [support = 0.038]
+Cherry Tart, Apricot Danish --> Opera Cake [confidence = 0.83] [support = 0.038]
+Blueberry Tart, Apricot Croissant --> Hot Coffee [confidence = 0.8] [support = 0.032]
+Blueberry Tart, Hot Coffee --> Apricot Croissant [confidence = 0.97] [support = 0.032]
+Apricot Croissant, Hot Coffee --> Blueberry Tart [confidence = 1.0] [support = 0.032]
+Apple Tart, Apple Croissant, Apple Danish --> Cherry Soda [confidence = 0.78] [support = 0.031]
+Apple Tart, Apple Croissant, Cherry Soda --> Apple Danish [confidence = 1.0] [support = 0.031]
+Apple Tart, Apple Danish, Cherry Soda --> Apple Croissant [confidence = 1.0] [support = 0.031]
+Apple Croissant, Apple Danish, Cherry Soda --> Apple Tart [confidence = 1.0] [support = 0.031]

@@ -1,0 +1,75 @@
+Apple Pie 0.07712
+Ganache Cookie 0.04324
+Coffee Eclair 0.10924
+Almond Twist 0.0772
+Hot Coffee 0.10266666666666667
+Opera Cake 0.08209333333333334
+Cheese Croissant 0.08221333333333333
+Orange Juice 0.09161333333333334
+Truffle Cake 0.08224
+Apple Tart 0.06822666666666667
+Chocolate Tart 0.07372
+Vanilla Frappuccino 0.07746666666666667
+Chocolate Eclair 0.04237333333333333
+Cherry Tart 0.09316
+Casino Cake 0.07501333333333333
+Strawberry Cake 0.09264
+Chocolate Croissant 0.04324
+Blackberry Tart 0.07586666666666667
+Blueberry Tart 0.08294666666666667
+Raspberry Cookie 0.06764
+Lemon Lemonade 0.06824
+Walnut Cookie 0.06785333333333333
+Vanilla Meringue 0.04238666666666667
+Apricot Danish 0.09257333333333333
+Apple Danish 0.06769333333333333
+Bottled Water 0.0752
+Almond Bear Claw 0.04244
+Cherry Soda 0.06198666666666667
+Single Espresso 0.06797333333333333
+Raspberry Lemonade 0.06774666666666666
+Green Tea 0.06246666666666666
+Chocolate Cake 0.08353333333333333
+Pecan Tart 0.04337333333333333
+Chocolate Coffee 0.08314666666666666
+Berry Tart 0.08482666666666666
+Blueberry Danish 0.04409333333333333
+Apricot Tart 0.04236
+Lemon Cookie 0.06801333333333333
+Napoleon Cake 0.08274666666666666
+Tuile Cookie 0.10074666666666666
+Apricot Croissant 0.08398666666666667
+Vanilla Eclair 0.04252
+Lemon Tart 0.0758
+Chocolate Meringue 0.041933333333333336
+Gongolais Cookie 0.09044
+Marzipan Cookie 0.08977333333333333
+Lemon Cake 0.08361333333333333
+Apple Croissant 0.06729333333333333
+Almond Tart 0.04204
+Almond Croissant 0.04273333333333333
+Chocolate Cake, Chocolate Coffee 0.04404
+Truffle Cake, Gongolais Cookie 0.04392
+Blueberry Tart, Apricot Croissant 0.043506666666666666
+Strawberry Cake, Napoleon Cake 0.043146666666666667
+Cheese Croissant, Orange Juice 0.04306666666666667
+Coffee Eclair, Almond Twist 0.03712
+Apple Pie, Almond Twist 0.03668
+Coffee Eclair, Blackberry Tart 0.03641333333333333
+Chocolate Tart, Vanilla Frappuccino 0.03596
+Casino Cake, Chocolate Coffee 0.03524
+Coffee Eclair, Hot Coffee 0.03156
+Apple Pie, Hot Coffee 0.031026666666666668
+Almond Twist, Hot Coffee 0.03092
+Opera Cake, Cherry Tart, Apricot Danish 0.041106666666666666
+MinSupport:0.03    MinConfidence:0.5
+Chocolate Cake --> Chocolate Coffee [confidence = 0.53] [support = 0.044]
+Chocolate Coffee --> Chocolate Cake [confidence = 0.53] [support = 0.044]
+Truffle Cake --> Gongolais Cookie [confidence = 0.53] [support = 0.044]
+Blueberry Tart --> Apricot Croissant [confidence = 0.52] [support = 0.044]
+Apricot Croissant --> Blueberry Tart [confidence = 0.52] [support = 0.044]
+Napoleon Cake --> Strawberry Cake [confidence = 0.52] [support = 0.043]
+Cheese Croissant --> Orange Juice [confidence = 0.52] [support = 0.043]
+Opera Cake, Cherry Tart --> Apricot Danish [confidence = 0.95] [support = 0.041]
+Opera Cake, Apricot Danish --> Cherry Tart [confidence = 0.96] [support = 0.041]
+Cherry Tart, Apricot Danish --> Opera Cake [confidence = 0.77] [support = 0.041]
