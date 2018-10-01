@@ -163,7 +163,7 @@ def reader(file):
 def readGoods(infile):
     next(infile)
     for good in infile:
-        goods[int(good[0])] = good[1].replace("'", "") + " " + good[2].replace("'", "")
+        goods[int(good[0])] = good[1].replace(" ", "")
 
 def printer():
     print('MinSupport:{}    MinConfidence:{}'.format(minSupport,minConfidence))
@@ -194,7 +194,7 @@ if __name__ == "__main__":
     goods = dict()
     optparser = OptionParser()
     optparser.add_option('-i', '--inputDatabase', dest = 'input', help = 'the transaction file', default = None)
-    optparser.add_option('-g', '--goods', dest = 'good', help = 'the goods file', default = None)
+    optparser.add_option('-g', '--goods', dest = 'good', help = 'the goods/authorlist file', default = None)
     optparser.add_option('-s', '--minSupport', dest = 'minS', help = 'minimum support value', default = 0.03, type = 'float')
     optparser.add_option('-c', '--minConfidence', dest = 'minC', help = 'minimum confidence value', default = 0.5, type = 'float')
     (options, args) = optparser.parse_args()
@@ -204,7 +204,12 @@ if __name__ == "__main__":
         print('No dataset filename specified\n')
         sys.exit()
     if options.good is not None:
-        readGoods(csv.reader(open(options.good, 'r')))
+        with open(options.good, "r") as f:
+            readerInfile = csv.reader(f, delimiter='|')
+            readGoods(readerInfile)
+        #readGoods(csv.reader(options.good, delimiter ='|'))
+        #readGoods(csv.reader(options.good, delimiter ='|'))
+        
     else:
         print('No goods name specified\n')
         sys.exit()
