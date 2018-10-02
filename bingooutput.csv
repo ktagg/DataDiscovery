@@ -1,0 +1,242 @@
+MinSupport:0.07    MinConfidence:0.6
+Hawkins,Scott --> Bancroft,Josiah [confidence = 0.65] [support = 0.091]
+McClellan,Brian --> Sanderson,Brandon [confidence = 0.64] [support = 0.111]
+Butcher,Jim --> Sanderson,Brandon [confidence = 0.67] [support = 0.107]
+Herbert,Frank --> Bancroft,Josiah [confidence = 0.68] [support = 0.086]
+Kay,GuyGavriel --> Bancroft,Josiah [confidence = 0.64] [support = 0.086]
+Eames,Nicholas, Sanderson,Brandon --> Bancroft,Josiah [confidence = 0.65] [support = 0.082]
+Bancroft,Josiah, Novik,Naomi --> Sanderson,Brandon [confidence = 0.66] [support = 0.095]
+Novik,Naomi, Sanderson,Brandon --> Bancroft,Josiah [confidence = 0.64] [support = 0.095]
+Addison,Katherine/Monette,Sarah, Bancroft,Josiah --> Sanderson,Brandon [confidence = 0.62] [support = 0.086]
+Addison,Katherine/Monette,Sarah, Sanderson,Brandon --> Bancroft,Josiah [confidence = 0.6] [support = 0.086]
+Bancroft,Josiah, Gaiman,Neil --> Lawrence,Mark [confidence = 0.62] [support = 0.082]
+Gaiman,Neil, Lawrence,Mark --> Bancroft,Josiah [confidence = 0.69] [support = 0.082]
+Gaiman,Neil, Pratchett,Terry --> Bancroft,Josiah [confidence = 0.62] [support = 0.074]
+Lawrence,Mark, Pratchett,Terry --> Bancroft,Josiah [confidence = 0.69] [support = 0.074]
+Lawrence,Mark, Sullivan,MichaelJ. --> Bancroft,Josiah [confidence = 0.75] [support = 0.074]
+Bancroft,Josiah, Jemisin,N.K. --> Sanderson,Brandon [confidence = 0.63] [support = 0.091]
+Bancroft,Josiah, Rowe,Andrew --> Sanderson,Brandon [confidence = 0.61] [support = 0.07]
+Abercrombie,Joe, Bancroft,Josiah --> Sanderson,Brandon [confidence = 0.65] [support = 0.07]
+Abercrombie,Joe, Sanderson,Brandon --> Bancroft,Josiah [confidence = 0.63] [support = 0.07]
+Addison,Katherine/Monette,Sarah, Lawrence,Mark --> Bancroft,Josiah [confidence = 0.69] [support = 0.074]
+Hobb,Robin/Lindholm,Megan, Lawrence,Mark --> Bancroft,Josiah [confidence = 0.65] [support = 0.07]
+Addison,Katherine/Monette,Sarah, Lawrence,Mark --> Sanderson,Brandon [confidence = 0.65] [support = 0.07]
+Lawrence,Mark, Rowe,Andrew --> Sanderson,Brandon [confidence = 0.61] [support = 0.07]
+Eames,Nicholas, Lawrence,Mark --> Bancroft,Josiah [confidence = 0.61] [support = 0.07]
+Pratchett,Terry, Sullivan,MichaelJ. --> Bancroft,Josiah [confidence = 0.74] [support = 0.07]
+
+Abercrombie,Joe 0.18106995884773663
+Addison,Katherine/Monette,Sarah 0.24691358024691357
+Bancroft,Josiah 0.4156378600823045
+Carey,Mike/Carey,M.R. 0.07407407407407407
+Eames,Nicholas 0.26337448559670784
+Gaiman,Neil 0.2674897119341564
+Hawkins,Scott 0.13991769547325103
+Hobb,Robin/Lindholm,Megan 0.2839506172839506
+Jemisin,N.K. 0.36213991769547327
+Jones,DianaWynne 0.11522633744855967
+Kay,GuyGavriel 0.13580246913580246
+King,Stephen 0.18106995884773663
+Lawrence,Mark 0.30864197530864196
+Lynch,Scott 0.19753086419753085
+Rothfuss,Patrick 0.07818930041152264
+Rowe,Andrew 0.24279835390946503
+Valente,CatherynneM. 0.205761316872428
+Wurts,Janny 0.13580246913580246
+Aaronovitch,Ben 0.10699588477366255
+Ball,KristaD./Ball,K. 0.20164609053497942
+Bardugo,Leigh 0.102880658436214
+Brennan,Marie 0.2757201646090535
+Bujold,LoisMcMaster 0.09053497942386832
+Drake,Darrell 0.11934156378600823
+LeGuin,UrsulaK. 0.2345679012345679
+Martin,GeorgeR.R. 0.09053497942386832
+Pratchett,Terry 0.27983539094650206
+Pullman,Philip 0.07407407407407407
+Sullivan,MichaelJ. 0.23045267489711935
+Villoso,K.S. 0.08641975308641975
+Anders,CharlieJane 0.11522633744855967
+Beaulieu,BradleyP. 0.10699588477366255
+Bennett,RobertJackson 0.12757201646090535
+Chambers,Becky 0.205761316872428
+Liu,Marjorie 0.08641975308641975
+Mieville,China 0.25925925925925924
+North,Claire/Webb,Catherine/Griffin,Kate 0.14814814814814814
+Willis,Connie 0.1440329218106996
+Ahmed,Saladin 0.06995884773662552
+Arden,Katherine 0.205761316872428
+Butcher,Jim 0.16049382716049382
+McCaffrey,Anne 0.07818930041152264
+Schafer,Courtney 0.16049382716049382
+Smith,Sherwood 0.11934156378600823
+Wecker,Helene 0.12345679012345678
+Wells,Martha 0.09053497942386832
+Wolfe,Gene 0.09876543209876543
+deCastell,Sebastien 0.07407407407407407
+*N/A 0.18106995884773663
+Stiefvater,Maggie 0.102880658436214
+Brown,Pierce 0.102880658436214
+McClellan,Brian 0.1728395061728395
+Novik,Naomi 0.26337448559670784
+Sanderson,Brandon 0.41975308641975306
+Abraham,Daniel/Hanover,M.L.N./Corey,JamesS.A. 0.07818930041152264
+Carriger,Gail 0.08641975308641975
+Herbert,Frank 0.12757201646090535
+Hill,Joe 0.06995884773662552
+McGuire,Seanan/Grant,Mira 0.13991769547325103
+Schwab,V.E./Schwab,Victoria 0.13991769547325103
+VanderMeer,Jeff 0.2345679012345679
+Staveley,Brian 0.06995884773662552
+Walton,Jo 0.12757201646090535
+Hurley,Kameron 0.13580246913580246
+Aaron,Rachel/Bach,Rachel 0.2345679012345679
+Atwood,Margaret 0.09876543209876543
+Bear,Elizabeth 0.11934156378600823
+Kowal,MaryRobinette 0.1111111111111111
+Vaughan,BrianK. 0.12345679012345678
+Wight,Will 0.06995884773662552
+Zelazny,Roger 0.13580246913580246
+Elliott,Kate/Rasmussen,AlisA. 0.08641975308641975
+Malerman,Josh 0.07818930041152264
+Patrick,Benedict 0.09876543209876543
+Erikson,Steven 0.08641975308641975
+Butler,OctaviaE. 0.09053497942386832
+Gladstone,Max 0.18106995884773663
+Okorafor,Nnedi 0.09053497942386832
+Liu,Ken 0.102880658436214
+Powers,Tim 0.07407407407407407
+Huff,Tanya 0.0823045267489712
+Polansky,Daniel 0.06995884773662552
+Lee,YoonHa 0.09876543209876543
+Bancroft,Josiah, Brennan,Marie [support = 0.115]
+Brennan,Marie, Mieville,China [support = 0.091]
+Bancroft,Josiah, Mieville,China [support = 0.119]
+Jemisin,N.K., Valente,CatherynneM. [support = 0.115]
+Lawrence,Mark, VanderMeer,Jeff [support = 0.115]
+Jemisin,N.K., Mieville,China [support = 0.091]
+Bancroft,Josiah, Lynch,Scott [support = 0.107]
+Eames,Nicholas, Sullivan,MichaelJ. [support = 0.086]
+Abercrombie,Joe, Lawrence,Mark [support = 0.099]
+Bancroft,Josiah, VanderMeer,Jeff [support = 0.111]
+Gaiman,Neil, VanderMeer,Jeff [support = 0.099]
+Eames,Nicholas, Mieville,China [support = 0.099]
+Lawrence,Mark, Lynch,Scott [support = 0.095]
+Pratchett,Terry, VanderMeer,Jeff [support = 0.091]
+Gaiman,Neil, Lynch,Scott [support = 0.095]
+Bancroft,Josiah, Hawkins,Scott [support = 0.091]
+Bancroft,Josiah, Valente,CatherynneM. [support = 0.086]
+Hobb,Robin/Lindholm,Megan, Mieville,China [support = 0.099]
+McClellan,Brian, Sanderson,Brandon [support = 0.111]
+Mieville,China, Sanderson,Brandon [support = 0.111]
+Bancroft,Josiah, McClellan,Brian [support = 0.082]
+Eames,Nicholas, Lynch,Scott [support = 0.091]
+Gaiman,Neil, Jemisin,N.K. [support = 0.095]
+Gaiman,Neil, Novik,Naomi [support = 0.095]
+Lynch,Scott, Pratchett,Terry [support = 0.099]
+Lynch,Scott, Sanderson,Brandon [support = 0.099]
+Jemisin,N.K., Lawrence,Mark [support = 0.099]
+Bancroft,Josiah, Chambers,Becky [support = 0.107]
+Hobb,Robin/Lindholm,Megan, Jemisin,N.K. [support = 0.123]
+Abercrombie,Joe, Gaiman,Neil [support = 0.099]
+Bancroft,Josiah, King,Stephen [support = 0.095]
+Hobb,Robin/Lindholm,Megan, Sanderson,Brandon [support = 0.128]
+Gaiman,Neil, Sullivan,MichaelJ. [support = 0.099]
+Addison,Katherine/Monette,Sarah, Pratchett,Terry [support = 0.082]
+Butcher,Jim, Sanderson,Brandon [support = 0.107]
+Hobb,Robin/Lindholm,Megan, Lynch,Scott [support = 0.082]
+Eames,Nicholas, Jemisin,N.K. [support = 0.091]
+Jemisin,N.K., LeGuin,UrsulaK. [support = 0.107]
+Jemisin,N.K., Lynch,Scott [support = 0.074]
+King,Stephen, Sanderson,Brandon [support = 0.103]
+Abercrombie,Joe, Eames,Nicholas [support = 0.082]
+Hobb,Robin/Lindholm,Megan, King,Stephen [support = 0.095]
+Sanderson,Brandon, VanderMeer,Jeff [support = 0.111]
+Jemisin,N.K., Sullivan,MichaelJ. [support = 0.082]
+Addison,Katherine/Monette,Sarah, Gaiman,Neil [support = 0.099]
+Chambers,Becky, Sanderson,Brandon [support = 0.099]
+Addison,Katherine/Monette,Sarah, Hobb,Robin/Lindholm,Megan [support = 0.095]
+Hobb,Robin/Lindholm,Megan, Novik,Naomi [support = 0.086]
+Addison,Katherine/Monette,Sarah, Eames,Nicholas [support = 0.074]
+Bancroft,Josiah, Herbert,Frank [support = 0.086]
+Eames,Nicholas, Gaiman,Neil [support = 0.091]
+Jemisin,N.K., VanderMeer,Jeff [support = 0.086]
+Addison,Katherine/Monette,Sarah, McClellan,Brian [support = 0.082]
+Gaiman,Neil, McClellan,Brian [support = 0.074]
+Gaiman,Neil, Rowe,Andrew [support = 0.091]
+North,Claire/Webb,Catherine/Griffin,Kate, Sanderson,Brandon [support = 0.082]
+Abercrombie,Joe, Pratchett,Terry [support = 0.078]
+Brennan,Marie, Gladstone,Max [support = 0.078]
+Brennan,Marie, Sanderson,Brandon [support = 0.091]
+Bancroft,Josiah, Gladstone,Max [support = 0.086]
+Bancroft,Josiah, North,Claire/Webb,Catherine/Griffin,Kate [support = 0.074]
+Addison,Katherine/Monette,Sarah, Novik,Naomi [support = 0.091]
+Abercrombie,Joe, Addison,Katherine/Monette,Sarah [support = 0.07]
+Abercrombie,Joe, Jemisin,N.K. [support = 0.074]
+Addison,Katherine/Monette,Sarah, Jemisin,N.K. [support = 0.082]
+Addison,Katherine/Monette,Sarah, Rowe,Andrew [support = 0.074]
+Addison,Katherine/Monette,Sarah, VanderMeer,Jeff [support = 0.078]
+Bancroft,Josiah, Butcher,Jim [support = 0.078]
+Gaiman,Neil, Hobb,Robin/Lindholm,Megan [support = 0.082]
+Hobb,Robin/Lindholm,Megan, Pratchett,Terry [support = 0.082]
+Hobb,Robin/Lindholm,Megan, Rowe,Andrew [support = 0.082]
+Jemisin,N.K., Pratchett,Terry [support = 0.082]
+Bancroft,Josiah, Kay,GuyGavriel [support = 0.086]
+Bancroft,Josiah, LeGuin,UrsulaK. [support = 0.086]
+Eames,Nicholas, VanderMeer,Jeff [support = 0.074]
+King,Stephen, Lawrence,Mark [support = 0.078]
+Lynch,Scott, VanderMeer,Jeff [support = 0.078]
+Eames,Nicholas, Pratchett,Terry [support = 0.078]
+Eames,Nicholas, Rowe,Andrew [support = 0.07]
+Gaiman,Neil, Herbert,Frank [support = 0.074]
+King,Stephen, Rowe,Andrew [support = 0.074]
+Lawrence,Mark, Novik,Naomi [support = 0.082]
+LeGuin,UrsulaK., Sanderson,Brandon [support = 0.091]
+Abercrombie,Joe, Rowe,Andrew [support = 0.07]
+Bancroft,Josiah, Hurley,Kameron [support = 0.078]
+Gaiman,Neil, Mieville,China [support = 0.082]
+LeGuin,UrsulaK., Mieville,China [support = 0.078]
+Brennan,Marie, Novik,Naomi [support = 0.078]
+Brennan,Marie, Pratchett,Terry [support = 0.074]
+Mieville,China, Novik,Naomi [support = 0.074]
+Jemisin,N.K., Rowe,Andrew [support = 0.074]
+Eames,Nicholas, King,Stephen [support = 0.074]
+Eames,Nicholas, Novik,Naomi [support = 0.074]
+Bancroft,Josiah, Schafer,Courtney [support = 0.074]
+Gaiman,Neil, King,Stephen [support = 0.074]
+King,Stephen, Novik,Naomi [support = 0.07]
+Lawrence,Mark, Mieville,China [support = 0.074]
+King,Stephen, Pratchett,Terry [support = 0.07]
+*N/A, Sanderson,Brandon [support = 0.086]
+Gaiman,Neil, LeGuin,UrsulaK. [support = 0.074]
+Addison,Katherine/Monette,Sarah, Lynch,Scott [support = 0.07]
+Chambers,Becky, VanderMeer,Jeff [support = 0.07]
+Herbert,Frank, VanderMeer,Jeff [support = 0.07]
+Bancroft,Josiah, Smith,Sherwood [support = 0.07]
+Bancroft,Josiah, Vaughan,BrianK. [support = 0.07]
+Brennan,Marie, LeGuin,UrsulaK. [support = 0.07]
+Jemisin,N.K., North,Claire/Webb,Catherine/Griffin,Kate [support = 0.07]
+Jemisin,N.K., Wecker,Helene [support = 0.07]
+Ball,KristaD./Ball,K., Sanderson,Brandon [support = 0.07]
+LeGuin,UrsulaK., Novik,Naomi [support = 0.07]
+Bancroft,Josiah, Zelazny,Roger [support = 0.07]
+Bancroft,Josiah, Pratchett,Terry, Sanderson,Brandon [support = 0.082]
+Bancroft,Josiah, Eames,Nicholas, Sanderson,Brandon [support = 0.082]
+Bancroft,Josiah, Novik,Naomi, Sanderson,Brandon [support = 0.095]
+Addison,Katherine/Monette,Sarah, Bancroft,Josiah, Sanderson,Brandon [support = 0.086]
+Bancroft,Josiah, Gaiman,Neil, Lawrence,Mark [support = 0.082]
+Bancroft,Josiah, Gaiman,Neil, Sanderson,Brandon [support = 0.078]
+Bancroft,Josiah, Lawrence,Mark, Sanderson,Brandon [support = 0.086]
+Bancroft,Josiah, Gaiman,Neil, Pratchett,Terry [support = 0.074]
+Bancroft,Josiah, Lawrence,Mark, Pratchett,Terry [support = 0.074]
+Bancroft,Josiah, Lawrence,Mark, Sullivan,MichaelJ. [support = 0.074]
+Bancroft,Josiah, Jemisin,N.K., Sanderson,Brandon [support = 0.091]
+Bancroft,Josiah, Rowe,Andrew, Sanderson,Brandon [support = 0.07]
+Gaiman,Neil, Pratchett,Terry, Sanderson,Brandon [support = 0.07]
+Abercrombie,Joe, Bancroft,Josiah, Sanderson,Brandon [support = 0.07]
+Addison,Katherine/Monette,Sarah, Bancroft,Josiah, Lawrence,Mark [support = 0.074]
+Bancroft,Josiah, Hobb,Robin/Lindholm,Megan, Lawrence,Mark [support = 0.07]
+Addison,Katherine/Monette,Sarah, Lawrence,Mark, Sanderson,Brandon [support = 0.07]
+Jemisin,N.K., Novik,Naomi, Sanderson,Brandon [support = 0.07]
+Lawrence,Mark, Rowe,Andrew, Sanderson,Brandon [support = 0.07]
+Bancroft,Josiah, Eames,Nicholas, Lawrence,Mark [support = 0.07]
+Bancroft,Josiah, Pratchett,Terry, Sullivan,MichaelJ. [support = 0.07]
