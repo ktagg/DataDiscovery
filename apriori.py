@@ -196,7 +196,7 @@ def itemprinter():
             for itemset in value.itemsets:
                 if itemset.maximal == True:
                     items = ', '.join(goods[item] for item in itemset.items)
-                    print('{} {}'.format(items,float(itemset.support)/len(transactions)))
+                    print('{} [support = {}]'.format(items,float(itemset.support)/len(transactions)))
 
 
 if __name__ == "__main__":

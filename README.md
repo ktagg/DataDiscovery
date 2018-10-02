@@ -1,5 +1,8 @@
 # DataDiscovery
 
+Kyle Taggard
+Andrew Chow
+
 In order to run this, we separated the program into 2 different files.
 You need to be python 3.7 in order to run this.
 
