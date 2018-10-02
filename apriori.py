@@ -190,7 +190,7 @@ def printer():
 def itemprinter():
     for key, value in freqDict.items():
         if key == 1:
-            for item,value in value.items():
+            for item, value in value.items():
                 print('{} {}'.format(goods[item], float(value[0])/len(transactions)))
         if key >= 2:
             for itemset in value.itemsets:
