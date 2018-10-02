@@ -1,7 +1,9 @@
 # DataDiscovery
 
-Andrew Chow
 Kyle Taggard
+
+Andrew Chow
+
 
 In order to run this, we separated the program into 2 different files.
 You need to be python 3.7 in order to run this.
@@ -11,4 +13,6 @@ Command - "python apriori.py -i <dataset> -g <goodslist> -s <minSupport> -c <min
 
 If you want to run the the bingo baskets dataset the command is as follows -
 Command - "python bingoApriori.py -i <dataset> -g <goodslist> -s <minSupport> -c <minConfidence>"
+  
+ dataset and goodslist are file names, minSupport and minConfidence are decimal float values.
 
